@@ -1,4 +1,4 @@
-# hello
+# Friendly_chat
 
 A new Flutter project.
 
